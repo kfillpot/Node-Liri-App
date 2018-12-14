@@ -82,7 +82,7 @@ function SpotifyThis() {
         query: userInput
     }, function(err, data) {
         if (err) {
-            console.log("Error occurred finding your song")
+            console.log("Error occurred while finding your song")
         }
         var results = data.tracks.items[0]
         var artist = results.artists[0].name;
