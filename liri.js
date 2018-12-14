@@ -73,26 +73,24 @@ function ConcertThis() {
 }
 //Function for spotify-this-song
 function SpotifyThis() {
-    console.log("Here is the information.")
+      console.log("Here is the information.")
     if (userInput == "") {
-        userInput = "I Want It That Way"
+        userInput = "I want it that way"
     }
     spotify.search({
         type: 'track',
         query: userInput
     }, function(err, data) {
         if (err) {
-            console.log("Error occurred while finding your song")
+            console.log("Error occurred finding your song")
         }
-        var results = data.tracks.items[0]
-        var artist = results.artists[0].name;
-        var name = results.name;
-        var preview = results.preview_url;
-        var album = results.album.name;
-        var output = ("\nArtist: " + artist + "\nSong Name: " + name + "\nPreview Link: " 
-        + preview + "\nAlbum: " + album + "\n---------------------------------");
-        console.log(output)
-        fs.appendFile('log.txt', output, 'utf8', function(error) {
+        var results = data.tracks.items[0];
+        console.log("\nArtist: " + results.artists[0].name);
+        console.log("\nSong Title: " + results.name);
+        console.log("\nPreview Link: " + results.preview_url);
+        console.log("\nAlbum Title: " + results.album.name); 
+       
+        fs.appendFile('log.txt', 'utf8', function(error) {
             if (error) {
                 console.log("Error: " + error);
             }
@@ -110,29 +108,28 @@ function MovieThis() {
     .then(function(response) {
         console.log(response.data.Title)
         results = response.data;
-        var title = results.Title;
-        var year = results.Year;
-        ratingsArr = results.Ratings
-        var IMDB = ratingsArr.filter(function(item) {
-            return item.Source === 'Internet Movie Database'
+        var IMDB = results.Ratings.filter(function(item) {
+            return item.Source === 'IMDB'
         }).map(function(item) {
             return item.Value.toString()
         })
         IMDB = IMDB.toString();
-        var RT = ratingsArr.filter(function(item) {
+        var RT = results.Ratings.filter(function(item) {
             return item.Source === 'Rotten Tomatoes'
         }).map(function(item) {
             return item.Value.toString()
         })
         RT = RT.toString();
-        country = results.Country;
-        language = results.Language;
-        plot = results.Plot;
-        actors = results.Actors;
-        var output = ("\nTitle: " + title + "\nYear: " + year + "\nIMDB Rating: " + IMDB + "\nRotten Tomatoes Rating: " + RT 
-        + "\nCountry: " + country + "\nLanguage: " + language + "\nPlot: " + plot + "\nActors: " + actors + "\n---------------------------------")
-        console.log(output)
-        fs.appendFile('log.txt', output, 'utf8', function(error) {
+        console.log("\nTitle: " + results.Title);
+        console.log("\nYear: " + results.Year);
+        console.log("\nRatings: " + results.Ratings);
+        console.log("\nIMDB Rating: " + IMDB);
+        console.log("\nRotten Tomato Rating: " + RT);
+        console.log("\nCountry: " + results.Country);
+        console.log("\nLanguage: " + results.Language);
+        console.log("\nPlot: " + results.Plot);
+        console.log("\nActors: " + results.Actors);
+        fs.appendFile('log.txt', 'utf8', function(error) {
             if (error) {
                 console.log("Error:" + error);
             }
