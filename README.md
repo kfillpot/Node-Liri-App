@@ -4,12 +4,12 @@
 What each command should do:
 
   1. node liri.js concert-this <artist/band name here>
-    ![Image of Yaktocat](https://octodex.github.com/images/concert.png)
+    ![Image of Yaktocat](https://kfillpot.github.com/concert.png)
 
   2. node liri.js spotify-this-song '<song name here>'
-    ![Image of Yaktocat](https://octodex.github.com/images/spotify.png)
+    ![Image of Yaktocat](https://kfillpot.github.com/spotify.png)
   
   3. node liri.js movie-this '<movie name here>'
-    ![Image of Yaktocat](https://octodex.github.com/images/movie.png)
+    ![Image of Yaktocat](https://kfillpot.github.com/movie.png)
 
 
