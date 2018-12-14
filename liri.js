@@ -2,15 +2,13 @@ require("dotenv").config();
 var keys = require("./keys");
 var request = require('request');
 var axios = require("axios");
-var Spotify = require('node-spotify-api');
 var fs = require("fs");
 var inquirer = require('inquirer');
 var moment = require("moment");
+var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 
-
-
-var command = process.argv[2]
+var arg1 = process.argv[2]
 var userInput = process.argv.slice(3).join(" ")
 
 
@@ -18,25 +16,25 @@ var userInput = process.argv.slice(3).join(" ")
 
 
 
-function whatToDo() {
-    if (command === 'do-what-it-says') {
+function whatItSays() {
+    if (arg1 === 'do-what-it-says') {
         fs.readFile('./random.txt', 'UTF8', function(err, data) {
             if (err) {
                 console.log("Why are you not working")
             }
-            command = data.substring(0, data.indexOf(","))
+            arg1 = data.substring(0, data.indexOf(","))
             userInput = data.substring(data.indexOf(",") + 2, data.length - 1)
-            whatToDo();
+            whatItSays();
         })
     }
     
-    else if (command === 'concert-this') {
+    else if (arg1 === 'concert-this') {
         ConcertThis();
-    }else if (command === 'spotify-this-song') {
+    }else if (arg1 === 'spotify-this-song') {
         SpotifyThis()
-    }else if (command === 'movie-this') {
+    }else if (arg1 === 'movie-this') {
         MovieThis();
-    }else if (command === 'do-what-it-says') {
+    }else if (arg1 === 'do-what-it-says') {
         doThis();
     }else {
         console.log("Enter a valid command such as: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'")
@@ -141,4 +139,4 @@ function MovieThis() {
         })
     })
 }
-whatToDo();
+whatItSays();
