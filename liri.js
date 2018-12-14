@@ -20,7 +20,7 @@ function whatItSays() {
     if (arg1 === 'do-what-it-says') {
         fs.readFile('./random.txt', 'UTF8', function(err, data) {
             if (err) {
-                console.log("Why are you not working")
+                console.log("Error: " + err)
             }
             arg1 = data.substring(0, data.indexOf(","))
             userInput = data.substring(data.indexOf(",") + 2, data.length - 1)
@@ -44,7 +44,7 @@ function whatItSays() {
 //Function for concert-this
 function ConcertThis() {
     if (userInput == "") {
-        console.log("You must include an artist to search.")
+        console.log("You must include an artist to search.");
     }
     else {
         axios.get("https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp")
@@ -63,7 +63,7 @@ function ConcertThis() {
                 console.log("\nVenue: " + venue + "\nLocation: " + location + "\nDate: " + date + "\n---------------------------------");
                 fs.appendFile('log.txt', output, 'utf8', function(error) {
                     if (error) {
-                        console.log("Why are you messing up?")
+                        console.log("Error: " + error);
                     }
                 })
             }
@@ -75,7 +75,7 @@ function ConcertThis() {
 function SpotifyThis() {
     console.log("Here is the information.")
     if (userInput == "") {
-        userInput = "The Sign"
+        userInput = "I Want It That Way"
     }
     spotify.search({
         type: 'track',
@@ -94,7 +94,7 @@ function SpotifyThis() {
         console.log(output)
         fs.appendFile('log.txt', output, 'utf8', function(error) {
             if (error) {
-                console.log("Why are you messing up?")
+                console.log("Error: " + error);
             }
         })
     })
@@ -134,7 +134,7 @@ function MovieThis() {
         console.log(output)
         fs.appendFile('log.txt', output, 'utf8', function(error) {
             if (error) {
-                console.log("Why are you messing up?")
+                console.log("Error:" + error);
             }
         })
     })
