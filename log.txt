@@ -1,0 +1,554 @@
+undefined
+Venue: The Met Philadelphia
+Location: Philadelphia, United States
+Date: 12/12/2018
+---------------------------------
+Venue: iHeartRadio ALTer Ego 2019
+Location: Los Angeles, United States
+Date: 01/19/2019
+---------------------------------
+Venue: KFC Yum! Center
+Location: Louisville, United States
+Date: 03/08/2019
+---------------------------------
+Venue: Colonial Life Arena
+Location: Columbia, United States
+Date: 03/10/2019
+---------------------------------
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 03/12/2019
+---------------------------------
+Venue: Bell Centre
+Location: Montréal, Canada
+Date: 03/13/2019
+---------------------------------
+Venue: Times Union Center
+Location: Albany, United States
+Date: 03/14/2019
+---------------------------------
+Venue: Schottenstein Center
+Location: Columbus, United States
+Date: 03/19/2019
+---------------------------------
+Venue: Foxwoods Resort Casino - Grand Theater
+Location: Mashantucket, United States
+Date: 03/16/2019
+---------------------------------
+Venue: Van Andel Arena
+Location: Grand Rapids, United States
+Date: 03/20/2019
+---------------------------------
+Venue: Royal Farms Arena
+Location: Baltimore, United States
+Date: 03/17/2019
+---------------------------------
+Venue: FedEx Forum
+Location: Memphis, United States
+Date: 03/22/2019
+---------------------------------
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 03/26/2019
+---------------------------------
+Venue: Enterprise Center
+Location: St. Louis, United States
+Date: 03/24/2019
+---------------------------------
+Venue: BOK Center
+Location: Tulsa, United States
+Date: 03/27/2019
+---------------------------------
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date: 03/30/2019
+---------------------------------
+Venue: Alliant Energy Center - Veterans Memorial Coliseum
+Location: Madison, United States
+Date: 03/31/2019
+---------------------------------
+Venue: Ford Idaho Center Arena
+Location: Nampa, United States
+Date: 04/05/2019
+---------------------------------
+Venue: Moda Center
+Location: Portland, United States
+Date: 04/06/2019
+---------------------------------
+Venue: Rogers Arena 
+Location: Vancouver, Canada
+Date: 04/07/2019
+---------------------------------
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 04/09/2019
+---------------------------------
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 04/10/2019
+---------------------------------
+Venue: Mandalay Bay Events Center
+Location: Las Vegas, United States
+Date: 04/12/2019
+---------------------------------
+Venue: O2 Academy Brixton
+Location: London, United Kingdom
+Date: 06/29/2019
+---------------------------------
+Venue: Rock Werchter 2019
+Location: Werchter, Belgium
+Date: 06/28/2019
+---------------------------------
+Venue: Stadtpark
+Location: Hamburg, Germany
+Date: 07/02/2019
+---------------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht, Netherlands
+Date: 07/04/2019
+---------------------------------
+Venue: Sonic Park 
+Location: Bologna, Italy
+Date: 07/07/2019
+---------------------------------
+Venue: Xtra
+Location: Zurich, Switzerland
+Date: 07/08/2019
+---------------------------------
+Venue: Bilbao BBK (July 11th-13th, Single Day TBA)
+Location: Bilbao, Spain
+Date: 07/11/2019
+---------------------------------
+Venue: Grönan Live
+Location: Stockholm, Sweden
+Date: 07/16/2019
+---------------------------------
+Venue: Bukta Open Air Festival (Single Day TBA)
+Location: Tromsø, Norway
+Date: 07/18/2019
+---------------------------------
+Venue: Wells Fargo Arena
+Location: Des Moines, United States
+Date: 03/28/2019
+---------------------------------
+Venue: Malakoff Festival (Single Day TBA)
+Location: Nordfjordeid (sogn Og Fjordane), Norway
+Date: 07/18/2019
+---------------------------------
+Artist: Al Green
+Song Name: Let's Stay Together
+Preview Link: https://p.scdn.co/mp3-preview/5374059cb5947b59dfb255bd44bc8f2ad2f481d0?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Let's Stay Together
+---------------------------------
+Artist: Al Green
+Song Name: Let's Stay Together
+Preview Link: https://p.scdn.co/mp3-preview/5374059cb5947b59dfb255bd44bc8f2ad2f481d0?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Let's Stay Together
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/13/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/22/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/20/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/23/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/27/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 03/01/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 03/02/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/08/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/10/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/11/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/15/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/18/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/22/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/24/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/26/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/25/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/24/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/26/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/27/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/02/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/31/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/03/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/07/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/09/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/10/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/13/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/20/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/13/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/20/2019
+---------------------------------
+Artist: My Chemical Romance
+Song Name: I'm Not Okay (I Promise)
+Preview Link: https://p.scdn.co/mp3-preview/b5ad0ef700a456e320076c3000826d0ce050eb6e?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Three Cheers For Sweet Revenge
+---------------------------------
+Title: Scream
+Year: 1996
+IMDB Rating: 7.2/10
+Rotten Tomatoes Rating: 79%
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+---------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: The Hits--Chapter One
+---------------------------------
+Artist: J2
+Song Name: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+Preview Link: https://p.scdn.co/mp3-preview/1e34f433e141be331c85acf18172fec19ada9f5b?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: The Iconic Series, Vol. 5
+---------------------------------
+Artist: Al Green
+Song Name: Let's Stay Together
+Preview Link: https://p.scdn.co/mp3-preview/5374059cb5947b59dfb255bd44bc8f2ad2f481d0?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Let's Stay Together
+---------------------------------
+Artist: Al Green
+Song Name: Let's Stay Together
+Preview Link: https://p.scdn.co/mp3-preview/5374059cb5947b59dfb255bd44bc8f2ad2f481d0?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Let's Stay Together
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/13/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/20/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/22/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/23/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/27/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 03/01/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 03/02/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/08/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/10/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/11/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/15/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/18/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/22/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/24/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/25/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 05/26/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/24/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/26/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/27/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 07/31/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/02/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/03/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/07/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/09/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/10/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 08/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/13/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/14/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/16/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/17/2019
+---------------------------------
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 02/20/2019
+---------------------------------
+Title: Scream
+Year: 1996
+IMDB Rating: 7.2/10
+Rotten Tomatoes Rating: 79%
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+---------------------------------
+Artist: Britney Spears
+Song Name: Oops!...I Did It Again
+Preview Link: https://p.scdn.co/mp3-preview/7fb86827422540ad01f65870375fef055412f034?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: Oops!... I Did It Again
+---------------------------------
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+---------------------------------
+Venue: The Fillmore - Philadelphia
+Location: Philadelphia, United States
+Date: 12/13/2018
+---------------------------------
+Venue: Brooklyn Steel
+Location: Brooklyn, United States
+Date: 12/14/2018
+---------------------------------
+Venue: Brooklyn Steel
+Location: Brooklyn, United States
+Date: 12/15/2018
+---------------------------------
+Venue: Asbury Park Convention Hall
+Location: Asbury Park, United States
+Date: 12/16/2018
+---------------------------------
+Venue: Tsongas Center at UMass Lowell
+Location: Lowell, United States
+Date: 12/18/2018
+---------------------------------
+Artist: J2
+Song Name: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+Preview Link: https://p.scdn.co/mp3-preview/1e34f433e141be331c85acf18172fec19ada9f5b?cid=b5f7f9381f284ecfb150d1a5fb70809a
+Album: The Iconic Series, Vol. 5
+---------------------------------
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+---------------------------------
