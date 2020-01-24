@@ -1,5 +1,16 @@
 # node-liri-app
 
+To install these npm packages, cd into the folder, then run 
+
+```
+npm install 
+```
+
+### Commands to run LIRI
+
+Since I've added the Inquirer package, you just need to run 
+
+```node liri.js``` it will prompt you to select a query and then asks you for the value (i.e. song name, movie name)
 
 What each command should do:
 
